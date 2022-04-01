@@ -15,7 +15,7 @@ deploy:
   edge: true
   app: "docker-react"
   env: "Dockerreact-env"
-  bucket_name: "Dockerreact-env.eba-pxaekjnh.eu-north-1.elasticbeanstalk.com"
+  bucket_name: "elasticbeanstalk-eu-north-1-918847403423"
   bucket_path: "docker-react"
   on:
     branch: main
